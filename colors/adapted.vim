@@ -4,7 +4,7 @@
   if exists("syntax_on")
     syntax reset
   endif
-  let g:colors_name="AdaptedToDarkness"
+  let g:colors_name="adapted"
 " }}}
 " {{{ Italics
   let g:adapted_terminal_italic = get(g:, 'adapted_terminal_italic', 0)
